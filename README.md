@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://storage.googleapis.com/my-bucket-permanent/onnline/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400" height="320" />
 
 * [LinkedIn](https://www.linkedin.com/in/milos-nikolic-1b693168/)
-* [Personal Suite](https://docu.nikolic.ml/)
+* [Personal Suite](https://milos-nikolic.com/about/)
 
 
 
